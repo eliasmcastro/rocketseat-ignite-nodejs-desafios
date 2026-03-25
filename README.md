@@ -35,5 +35,16 @@
         Criando aplicação para gerenciar tarefas (todos) com express
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        01
+      </td>
+      <td align="center">
+        <a href="01-fundamentos-do-nodejs">Fundamentos do Node.js</a>
+      </td>
+      <td align="center">
+        Criando aplicação para gerenciar tarefas (todos) sem lib
+      </td>
+    </tr>
   </tbody>
 </table>
