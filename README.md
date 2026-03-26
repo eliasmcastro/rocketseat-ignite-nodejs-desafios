@@ -68,5 +68,16 @@
         Corrigindo código de uma aplicação de CRUD (Create, Read, Update, Delete) de repositórios de projetos
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        04
+      </td>
+      <td align="center">
+        <a href="04-introducao-ao-SOLID">Introdução ao SOLID</a>
+      </td>
+      <td align="center">
+        Criando aplicação utilizando estrutura de arquitetura limpa em uma aplicação de listagem e cadastro de usuários
+      </td>
+    </tr>
   </tbody>
 </table>
