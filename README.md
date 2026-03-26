@@ -57,5 +57,16 @@
         Trabalhando com middlewares no Express em uma aplicação para gerenciar tarefas (todos)
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        03
+      </td>
+      <td align="center">
+        <a href="03-corrigindo-o-codigo">Corrigindo o código</a>
+      </td>
+      <td align="center">
+        Corrigindo código de uma aplicação de CRUD (Create, Read, Update, Delete) de repositórios de projetos
+      </td>
+    </tr>
   </tbody>
 </table>
