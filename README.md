@@ -46,5 +46,16 @@
         Criando aplicação para gerenciar tarefas (todos) sem lib
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        02
+      </td>
+      <td align="center">
+        <a href="02-trabalhando-com-middlewares">Trabalhando com middlewares</a>
+      </td>
+      <td align="center">
+        Trabalhando com middlewares no Express em uma aplicação para gerenciar tarefas (todos)
+      </td>
+    </tr>
   </tbody>
 </table>
