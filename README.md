@@ -90,5 +90,16 @@
         Utilizando diferentes tipos de consultas que podemos fazer no banco de dados com o TypeORM
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        06
+      </td>
+      <td align="center">
+        <a href="06-testes-unitarios-integracao">Testes unitários e integração</a>
+      </td>
+      <td align="center">
+        Criação de testes unitários e integração em uma aplicação para controle financeiro
+      </td>
+    </tr>
   </tbody>
 </table>
