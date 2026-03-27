@@ -79,5 +79,16 @@
         Criando aplicação utilizando estrutura de arquitetura limpa em uma aplicação de listagem e cadastro de usuários
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        05
+      </td>
+      <td align="center">
+        <a href="05-database-queries">Database Queries</a>
+      </td>
+      <td align="center">
+        Utilizando diferentes tipos de consultas que podemos fazer no banco de dados com o TypeORM
+      </td>
+    </tr>
   </tbody>
 </table>
