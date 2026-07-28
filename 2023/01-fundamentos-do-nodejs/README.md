@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img alt="Ignite" src=".github/node.js.png" width="200px" />
-</h1>
+<div align="center">
+  <img alt="Node.js" src=".github/node.js.png" width="200px" />
+</div>
 
 <h3 align="center">
   Desafio: Fundamentos do Node.js

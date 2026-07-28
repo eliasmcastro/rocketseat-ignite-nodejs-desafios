@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img alt="Ignite" src=".github/ignite.png" width="200px" />
-</h1>
+</div>
 
 <h3 align="center">
   Desafios do Ignite [Trilha Node.js] da Rocketseat
@@ -25,11 +25,16 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan="3">
+        <strong>Ignite 2021</strong>
+      </td>
+    </tr>
+    <tr>
       <td align="center">
         01
       </td>
       <td align="center">
-        <a href="01-conceitos-do-nodejs">Conceitos do Node.js</a>
+        <a href="2021/01-conceitos-do-nodejs">Conceitos do Node.js</a>
       </td>
       <td align="center">
         Criando aplicação para gerenciar tarefas (todos) com express
@@ -37,21 +42,10 @@
     </tr>
     <tr>
       <td align="center">
-        01
-      </td>
-      <td align="center">
-        <a href="01-fundamentos-do-nodejs">Fundamentos do Node.js</a>
-      </td>
-      <td align="center">
-        Criando aplicação para gerenciar tarefas (todos) sem lib
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         02
       </td>
       <td align="center">
-        <a href="02-trabalhando-com-middlewares">Trabalhando com middlewares</a>
+        <a href="2021/02-trabalhando-com-middlewares">Trabalhando com middlewares</a>
       </td>
       <td align="center">
         Trabalhando com middlewares no Express em uma aplicação para gerenciar tarefas (todos)
@@ -62,7 +56,7 @@
         03
       </td>
       <td align="center">
-        <a href="03-corrigindo-o-codigo">Corrigindo o código</a>
+        <a href="2021/03-corrigindo-o-codigo">Corrigindo o código</a>
       </td>
       <td align="center">
         Corrigindo código de uma aplicação de CRUD (Create, Read, Update, Delete) de repositórios de projetos
@@ -73,7 +67,7 @@
         04
       </td>
       <td align="center">
-        <a href="04-introducao-ao-SOLID">Introdução ao SOLID</a>
+        <a href="2021/04-introducao-ao-SOLID">Introdução ao SOLID</a>
       </td>
       <td align="center">
         Criando aplicação utilizando estrutura de arquitetura limpa em uma aplicação de listagem e cadastro de usuários
@@ -84,7 +78,7 @@
         05
       </td>
       <td align="center">
-        <a href="05-database-queries">Database Queries</a>
+        <a href="2021/05-database-queries">Database Queries</a>
       </td>
       <td align="center">
         Utilizando diferentes tipos de consultas que podemos fazer no banco de dados com o TypeORM
@@ -95,10 +89,37 @@
         06
       </td>
       <td align="center">
-        <a href="06-testes-unitarios-integracao">Testes unitários e integração</a>
+        <a href="2021/06-testes-unitarios-integracao">Testes unitários e integração</a>
       </td>
       <td align="center">
         Criação de testes unitários e integração em uma aplicação para controle financeiro
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        <strong>Ignite 2023</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        01
+      </td>
+      <td align="center">
+        <a href="2023/01-fundamentos-do-nodejs">Fundamentos do Node.js</a>
+      </td>
+      <td align="center">
+        Criando aplicação para gerenciar tarefas (todos) sem lib
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        02
+      </td>
+      <td align="center">
+        <a href="2023/02-daily-diet-api">Daily Diet API</a>
+      </td>
+      <td align="center">
+        Criando aplicação para controle diário de dieta
       </td>
     </tr>
   </tbody>

@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img alt="Ignite" src=".github/logo_ignite.png" width="200px" />
-</h1>
+</div>
 
 <h3 align="center">
   Desafio: Database Queries
